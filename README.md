@@ -1,6 +1,7 @@
 # Taylor's University VORTEX XR Lab Projects
 
-This repository showcases immersive learning and research projects created under the **VORTEX XR Lab** at **Taylor’s University, Malaysia**.  
+This repository showcases immersive learning and research projects created under the **VORTEX XR Lab** at **Taylor’s University, Malaysia**.
+
 The lab integrates **Virtual Reality (VR)**, **Augmented Reality (AR)**, and **Mixed Reality (MR)** technologies to enhance education, research, and industry collaboration.
 
 ## 🔍 Focus Areas
