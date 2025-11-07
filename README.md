@@ -1,16 +1,15 @@
-## Hi there 👋
+# Taylor's University VORTEX XR Lab Projects
 
-<!--
-**vortextaylors/vortextaylors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository showcases immersive learning and research projects created under the **VORTEX XR Lab** at **Taylor’s University, Malaysia**.  
+The lab integrates **Virtual Reality (VR)**, **Augmented Reality (AR)**, and **Mixed Reality (MR)** technologies to enhance education, research, and industry collaboration.
 
-Here are some ideas to get you started:
+## 🔍 Focus Areas
+- XR-based educational simulations  
+- AI integration in immersive environments  
+- Interactive 3D content for training and visualization  
+- Virtual production using XR stage and green-screen studio  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏛️ About the Lab
+The VORTEX (Virtual Online Future Technology and Extended Reality) Lab is a university-wide initiative to transform curriculum and research through immersive technology, equipping students with digital and spatial design skills for Industry 4.0.
+
+Learn more: [Taylor’s University VORTEX XR Lab](https://university.taylors.edu.my/en/student-life/campus-facilities/vortex-extended-reality-lab.html)
