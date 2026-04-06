@@ -14,3 +14,6 @@ The lab integrates **Virtual Reality (VR)**, **Augmented Reality (AR)**, and **M
 The VORTEX (Virtual Online Future Technology and Extended Reality) Lab is a university-wide initiative to transform curriculum and research through immersive technology, equipping students with digital and spatial design skills for Industry 4.0.
 
 Learn more: [Taylor’s University VORTEX XR Lab](https://university.taylors.edu.my/en/student-life/campus-facilities/vortex-extended-reality-lab.html)
+
+### 🤝 Collaboration
+Interested in collaborating on AI development, XR projects, research, or contributing to our initiatives? We’d love to hear from you, feel free to reach out at vortextaylors@gmail.com.
