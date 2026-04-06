@@ -16,4 +16,6 @@ The VORTEX (Virtual Online Future Technology and Extended Reality) Lab is a univ
 Learn more: [Taylor’s University VORTEX XR Lab](https://university.taylors.edu.my/en/student-life/campus-facilities/vortex-extended-reality-lab.html)
 
 ### 🤝 Collaboration
-Interested in collaborating on AI development, XR projects, research, or contributing to our initiatives? We’d love to hear from you, feel free to reach out at vortextaylors@gmail.com.
+Interested in collaborating on AI development, XR projects, research, or contributing to our initiatives?
+
+We’d love to hear from you, feel free to reach out at vortextaylors@gmail.com.
